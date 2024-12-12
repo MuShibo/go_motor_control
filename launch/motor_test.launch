@@ -1,0 +1,5 @@
+ <launch>
+
+    <node pkg="go_motor_control" type="go_motor_node" name="go_motor_node" output="screen"/>
+        
+ </launch>

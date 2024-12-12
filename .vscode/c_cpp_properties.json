@@ -1,0 +1,51 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/shibo/motor_ws/devel/include/**",
+        "/home/shibo/ocs2_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/shibo/ocs2_ws/src/robotic_tools/ocs2/ocs2_sqp/hpipm_catkin/include/**",
+        "/home/shibo/ocs2_ws/src/robotic_tools/hpp-fcl/include/**",
+        "/home/shibo/ocs2_ws/src/atom_control_software/lcm_msg/include/**",
+        "/home/shibo/ocs2_ws/src/atom_control_software/legged_common/include/**",
+        "/home/shibo/ocs2_ws/src/atom_control_software/legged_controllers/include/**",
+        "/home/shibo/ocs2_ws/src/atom_control_software/legged_deploy/include/**",
+        "/home/shibo/ocs2_ws/src/atom_control_software/legged_estimation/include/**",
+        "/home/shibo/ocs2_ws/src/atom_control_software/legged_bridge/legged_gazebo/include/**",
+        "/home/shibo/ocs2_ws/src/atom_control_software/legged_bridge/legged_hw/include/**",
+        "/home/shibo/ocs2_ws/src/atom_control_software/legged_interface/include/**",
+        "/home/shibo/ocs2_ws/src/atom_control_software/legged_bridge/legged_mujoco/include/**",
+        "/home/shibo/motor_ws/src/mit_motor_can_bridge/can_motor_bridge/include/**",
+        "/home/shibo/ocs2_ws/src/atom_control_software/mujoco/include/**",
+        "/home/shibo/ocs2_ws/src/robotic_tools/ocs2/ocs2_pinocchio/ocs2_centroidal_model/include/**",
+        "/home/shibo/ocs2_ws/src/robotic_tools/ocs2/ocs2_core/include/**",
+        "/home/shibo/ocs2_ws/src/robotic_tools/ocs2/ocs2_ddp/include/**",
+        "/home/shibo/ocs2_ws/src/robotic_tools/ocs2/ocs2_ipm/include/**",
+        "/home/shibo/ocs2_ws/src/robotic_tools/ocs2/ocs2_robotic_examples/ocs2_legged_robot/include/**",
+        "/home/shibo/ocs2_ws/src/robotic_tools/ocs2/ocs2_robotic_examples/ocs2_legged_robot_ros/include/**",
+        "/home/shibo/ocs2_ws/src/robotic_tools/ocs2/ocs2_mpc/include/**",
+        "/home/shibo/ocs2_ws/src/robotic_tools/ocs2/ocs2_oc/include/**",
+        "/home/shibo/ocs2_ws/src/robotic_tools/ocs2/ocs2_pinocchio/ocs2_pinocchio_interface/include/**",
+        "/home/shibo/ocs2_ws/src/robotic_tools/ocs2/ocs2_test_tools/ocs2_qp_solver/include/**",
+        "/home/shibo/ocs2_ws/src/robotic_tools/ocs2_robotic_assets/include/**",
+        "/home/shibo/ocs2_ws/src/robotic_tools/ocs2/ocs2_robotic_tools/include/**",
+        "/home/shibo/ocs2_ws/src/robotic_tools/ocs2/ocs2_ros_interfaces/include/**",
+        "/home/shibo/ocs2_ws/src/robotic_tools/ocs2/ocs2_pinocchio/ocs2_self_collision/include/**",
+        "/home/shibo/ocs2_ws/src/robotic_tools/ocs2/ocs2_sqp/ocs2_sqp/include/**",
+        "/home/shibo/ocs2_ws/src/robotic_tools/ocs2/ocs2_thirdparty/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

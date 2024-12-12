@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>go_motor_control</name>
+  <version>0.1.0</version>
+  <description>ROS package for controlling Unitree GO motors</description>
+
+  <maintainer email="your_email@example.com">Your Name</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>roscpp</build_depend>
+  <exec_depend>roscpp</exec_depend>
+
+  <build_depend>libstdc++</build_depend>
+  <exec_depend>libstdc++</exec_depend>
+
+  <export>
+    <build_type>catkin</build_type>
+  </export>
+</package>
